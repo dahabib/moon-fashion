@@ -1,7 +1,30 @@
-.infoImage img{
-    width: 248px;
-    height: 248px;
+*{
+    margin: 0;
+    padding: 0;
 }
-.features{
-    height: 380px;
+.single-feature-image img{
+    width: 78px;
+    height: 82px;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+.banner-text h1{
+    font-size: 80px;
+}
+div h1{
+    font-size: 36px;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}
+.banner-span{
+    color: goldenrod;
+}
+
+.buy-info{
+    padding: 10px 18px;
+}
+.product{
+    
 }
