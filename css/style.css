@@ -21,10 +21,11 @@ p{
 .banner-span{
     color: goldenrod;
 }
-
-.buy-info{
-    padding: 10px 18px;
+.product-image{
+    background-color: #F1F1F1;
+    border-radius: 20%;
 }
-.product{
-    
+
+.product-image img{
+    height: 50%;
 }
